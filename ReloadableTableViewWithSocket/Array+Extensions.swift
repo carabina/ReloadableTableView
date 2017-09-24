@@ -32,4 +32,3 @@ extension Array {
         return result
     }
 }
-
